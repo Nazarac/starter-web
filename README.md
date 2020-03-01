@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2020 A testing example
+2020 A testing example. All rights preserved! I mean it!
