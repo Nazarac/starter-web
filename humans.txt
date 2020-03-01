@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Eggers	eggers.john@mayo.edu
 
 # THANKS
 
